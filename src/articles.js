@@ -1,0 +1,123 @@
+export const articles = [
+    {
+      id: 1,
+      title: "Article 1",
+      date: "2024-08-01",
+      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    },
+    {
+      id: 2,
+      title: "Article 2",
+      date: "2024-08-02",
+      content: "Phasellus at elit vel dui suscipit aliquam.",
+    },
+    {
+      id: 3,
+      title: "Article 3",
+      date: "2024-08-03",
+      content: "Curabitur sit amet urna non metus interdum convallis.",
+    },
+    {
+      id: 4,
+      title: "Article 4",
+      date: "2024-08-04",
+      content: "Suspendisse eget libero in ligula vehicula interdum.",
+    },
+    {
+      id: 5,
+      title: "Article 5",
+      date: "2024-08-05",
+      content: "Vivamus vehicula mi ac lorem convallis, sed bibendum felis blandit.",
+    },
+    {
+      id: 6,
+      title: "Article 6",
+      date: "2024-08-06",
+      content: "Integer quis tortor ac nunc malesuada laoreet.",
+    },
+    {
+      id: 7,
+      title: "Article 7",
+      date: "2024-08-07",
+      content: "Donec vitae dui ut velit tincidunt pharetra.",
+    },
+    {
+      id: 8,
+      title: "Article 8",
+      date: "2024-08-08",
+      content: "Pellentesque consequat felis ut eros fermentum, et consequat odio tincidunt.",
+    },
+    {
+      id: 9,
+      title: "Article 9",
+      date: "2024-08-09",
+      content: "Mauris sed purus eu ante tincidunt gravida.",
+    },
+    {
+      id: 10,
+      title: "Article 10",
+      date: "2024-08-10",
+      content: "Cras vulputate lorem ut odio commodo, in gravida lectus accumsan.",
+    },
+    {
+      id: 11,
+      title: "Article 11",
+      date: "2024-08-11",
+      content: "Aliquam erat volutpat. Sed ultricies sem eget sapien cursus, vitae rhoncus dui tempor.",
+    },
+    {
+      id: 12,
+      title: "Article 12",
+      date: "2024-08-12",
+      content: "Fusce non ligula at dolor luctus ullamcorper.",
+    },
+    {
+      id: 13,
+      title: "Article 13",
+      date: "2024-08-13",
+      content: "Sed interdum metus id ante dignissim, ac interdum nunc cursus.",
+    },
+    {
+      id: 14,
+      title: "Article 14",
+      date: "2024-08-14",
+      content: "Proin id velit eu velit consectetur dignissim.",
+    },
+    {
+      id: 15,
+      title: "Article 15",
+      date: "2024-08-15",
+      content: "Duis non risus id enim dapibus interdum.",
+    },
+    {
+      id: 16,
+      title: "Article 16",
+      date: "2024-08-16",
+      content: "Nam cursus purus et elit dictum, nec sagittis turpis fringilla.",
+    },
+    {
+      id: 17,
+      title: "Article 17",
+      date: "2024-08-17",
+      content: "Vivamus ut neque ut magna varius dignissim.",
+    },
+    {
+      id: 18,
+      title: "Article 18",
+      date: "2024-08-18",
+      content: "Etiam ac felis a dolor condimentum consectetur.",
+    },
+    {
+      id: 19,
+      title: "Article 19",
+      date: "2024-08-19",
+      content: "Aenean sed justo sit amet nisi sodales tincidunt.",
+    },
+    {
+      id: 20,
+      title: "Article 20",
+      date: "2024-08-20",
+      content: "Quisque sit amet elit vitae libero iaculis facilisis.",
+    },
+  ];
+  
